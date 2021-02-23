@@ -4,7 +4,7 @@ description         : >-
                       I turn coffee :coffee: into code,
                       use tabs over spaces
                       and never broke production.
-baseurl             : "/pyheum
+baseurl             : "/pyheum"
 repository          :
 remote_theme        : YoussefRaafatNasry/portfolYOU
 
