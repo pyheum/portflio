@@ -4,7 +4,7 @@ description         : >-
                       우리 연흠이는 이쁘고 귀엽다.
                       디자인도 짱짱 잘하지
 baseurl             : "/"
-repository          :
+repository          : pyh.github.io
 remote_theme        : YoussefRaafatNasry/portfolYOU
 
 
@@ -25,22 +25,22 @@ nav_exclude:                                            # The following paths ar
 author:
   name              : Patk YeonHeum
   image             : /assets/img/profile.jpg
-  behance           : your_username
+# behance           : your_username
 # dribbble          : your_username
-  email             : username@domain.com
-  facebook          : your_username
-  github            : your_username
+  email             : heum914@naver.com
+  facebook          : yeonheum_park
+#github            : your_username
 # gitlab            : your_username
-# instagram         : your_username
+  instagram         : yeonheum_park
 # kaggle            : your_username
-  linkedin          : your_username
-  medium            : your_username
+# linkedin          : your_username
+# medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username
 # stackoverflow     : your_user_id
 # tumblr            : your_username.tumblr.com
 # twitch            : your_username
-  twitter           : your_username
+# twitter           : your_username
 # vimeo             : your_username
 # youtube           : your_channel_name
 # keybase           : your_username
