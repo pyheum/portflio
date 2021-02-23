@@ -1,9 +1,8 @@
 ### Site Settings ###
-title               : portfolYOU
+title               : YeonHeum Portflio!
 description         : >-
-                      I turn coffee :coffee: into code,
-                      use tabs over spaces
-                      and never broke production.
+                      우리 연흠이는 이쁘고 귀엽다.
+                      디자인도 짱짱 잘하지
 baseurl             : "/"
 repository          :
 remote_theme        : YoussefRaafatNasry/portfolYOU
